@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Research"
+ # - title: "Research"
     #url: /publications/
   - title: "Publications"
     url: /publications/
 
-  - title: "K12 Outreach"
+  #- title: "K12 Outreach"
    # url: /k12outreach/    
 
 #  - title: "Teaching"
