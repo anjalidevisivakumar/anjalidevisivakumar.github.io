@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "K12 Outreach"
-    url: /k12outreach/    
+   # url: /k12outreach/    
 
 #  - title: "Teaching"
  #   url: /teaching/ 
