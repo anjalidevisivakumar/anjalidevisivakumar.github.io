@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Outreach"
-    #url: /talks/    
+  - title: "K12 Outreach"
+    url: /k12outreach/    
 
 #  - title: "Teaching"
  #   url: /teaching/ 
