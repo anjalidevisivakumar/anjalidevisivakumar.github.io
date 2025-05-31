@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-<b>At University of Michigan</b>
+<b>Mentoring Experience</b>
 ======
 * Lecturer: (ECE551) <em>Matrix Methods for Signal Processing, Data Analysis and Machine Learning </em>, Fall 2024.<br> 
 
-<b>At University of Southern California</b>
+<b>K12 Outreach</b>
 ======
 * Teaching Assistant: (EE141) <em>Applied Linear Algebra for Engineering </em>, Fall 2022.<br> 
 * Teaching Assistant: (EE588) <em>Optimization for the Information and Data Sciences</em>, Fall 2021.<br> 
@@ -20,7 +20,7 @@ author_profile: true
 * Teaching Assistant: (EE483) <em> Introduction to Digital Signal Processing </em>, Spring 2020.<br> 
 * Teaching Assistant: (EE483) <em> Introduction to Digital Signal Processing </em>, Fall 2019.<br> 
 
-<b>At Universidad de Chile</b>
+<b>Professional Activities</b>
 ======
 * Teaching Assistant: (EL7024) <em>Information Theory</em>, Spring 2014.<br> 
 * Teaching Assistant: (EL3005) <em>Signals and Systems I</em>, Fall 2013.<br> 
