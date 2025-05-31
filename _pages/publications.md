@@ -33,7 +33,7 @@ author_profile: true
 <b>Conference</b>
 ======
 
-*<b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br> WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring <br><em>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, February 2025. </em>
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br> WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring <br><em>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, February 2025. </em>
 * <b> Anjali Devi Sivakumar </b>, Ruchi Sharma, Chandrakalavathi Thota, Xudong Fan. <br> WASP: Wearable Analytical Skin Probe <br><em> 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Orlando, Florida, July 2024.</br></em>
 *	Ahmed Shokr, Luis G. C. Pacheco, Prudhvi Thirumalaraju, Manoj K. Kanakasabapathy,<b> Anjali Devi Sivakumar</b>, Jahnavi Gandhi, Deeksha Kartik, Filipe S. R. Silva, Eda Erdogmus, Sai Hemanth K. Kandula, Shenglin Luo, Xu G. Yu, Raymond T. Chung, Jonathan Z. Li, Daniel R. Kuritzkes, and Hadi Shafiee. <br> Rapid, Sensitive, Point-of-Care Detection of SARS-CoV-2 On-Chip<br><em> Discover Brigham, November 2020.</em>
 * <b>Anjali Devi Sivakumar </b> and Anoop C.S. <br> Analog and Direct-Digital Front-End Circuits Suitable for Low-Valued Resistive Sensors <br><em> Proc. 15th IEEE India Council International Conference (INDICON 2018), Coimbatore, India, Dec.16 -18, 2018. </em>
