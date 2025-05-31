@@ -8,8 +8,8 @@ main:
   #- title: "K12 Outreach"
    # url: /k12outreach/    
 
-#  - title: "Teaching"
- #   url: /teaching/ 
+- title: "Awards"
+  url: /awards/ 
 
  # - title: "ECE551"
  #   url: /ECE551_lectures/ 
