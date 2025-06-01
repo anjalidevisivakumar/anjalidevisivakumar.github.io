@@ -7,9 +7,9 @@ main:
 
   - title: "K12 Outreach"
     url: /k12outreach/    
-
-#- title: "Awards"
-#  url: /awards/ 
+  
+  - title: "Awards"
+    url: /awards/ 
 
  #- title: "ECE551"
  #  url: /ECE551_lectures/ 
