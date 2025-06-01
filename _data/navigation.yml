@@ -5,8 +5,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "K12 Outreach"
-   # url: /k12outreach/    
+  - title: "K12 Outreach"
+    url: /k12outreach/    
 
 #- title: "Awards"
 #  url: /awards/ 
