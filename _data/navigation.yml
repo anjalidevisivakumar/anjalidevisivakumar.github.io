@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url:/home/
+    
   - title: "Research"
     url: /research/
     
@@ -7,7 +10,7 @@ main:
     url: /publications/
     
   - title: "Professional and Outreach Activities"
-    url: /Professional_Outreach/
+    url: /professional/
     
   - title: "Awards"
     url: /awards/ 
