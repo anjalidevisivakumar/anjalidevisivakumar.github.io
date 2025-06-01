@@ -11,8 +11,8 @@ main:
 - title: "Awards"
   url: /awards/ 
 
- # - title: "ECE551"
- #   url: /ECE551_lectures/ 
+ - title: "ECE551"
+   url: /ECE551_lectures/ 
     
   #- title: "Portfolio"
     #url: /portfolio/
