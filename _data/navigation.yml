@@ -1,10 +1,14 @@
 # main links links
 main:
- # - title: "Research"
-    #url: /publications/
+  - title: "Research"
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Professional and Outreach"
+    url: /Professional_Outreach/
+    
   - title: "Awards"
     url: /awards/ 
 
