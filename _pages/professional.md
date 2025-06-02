@@ -13,6 +13,12 @@ author_profile: true
 <b>Mentoring Experience:</b>
 ===========================
 
-2022-2025: University of Michigan: 5 undergrad students and 1 master's student
-
+2022-2025: University of Michigan: 6 undergrad students and 1 master's student
+* Tianyue Li
+* Eric Ding
+* Ava Fisher
+* Arnav
+* Jackie
+* Bryan Li
+* Sumedh
 
