@@ -4,13 +4,15 @@ title: "Professional and Outreach Activities"
 permalink: /professional/
 author_profile: true
 ---
-Outreach:
+<b>Outreach:</b>
+================
 2023-present: K12 outreach officer at Graduate Society of Women Engineers (GradSWE) at the University of Michigan
 
 2023- present: K12 outreach committee at Tau Beta Pi (TBP) Michigan Gamma Chapter 
 
-Mentoring Experience
+<b>Mentoring Experience:</b>
+===========================
 
-2022-2025: University of Michigan: 5 undergrad students and 1 master student
+2022-2025: University of Michigan: 5 undergrad students and 1 master's student
 
 
