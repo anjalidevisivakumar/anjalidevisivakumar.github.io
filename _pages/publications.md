@@ -16,6 +16,7 @@ author_profile: true
 
 <b>Journal</b>
 ======
+* <b>Anjali Devi Sivakumar </b>, Ruchi Sharma, et. al (to be submitted)
 * Makiko Mitsunami, Hemanth Kandula, <b> Anjali Devi Sivakumar </b>, Tejas Girish Deshpande, Jasmine Kumar, Susitra Gnanasambhandam, Prudhvi Thirumalaraju, Manoj Kumar Kanakasabapathy, Charles L Bormann, Martin Kathrins, Hadi Shafiee, Jorge E Chavarro, Jaime E Hart. <br> [Comparing remote smartphone-based semen assessments with laboratory evaluations in men unselected for fertility concerns](https://www.sciencedirect.com/science/article/pii/S0015028225005539)<br><em>Fertility and Sterility, 2025.</em>
 
 *	Xiaheng Huang, Shuo Yang, Wencheng Li, Robert Nidetz, Ruchi Sharma, <b> Anjali Devi Sivakumar </b>, Chandrakalavathi Thota, Hongbo Zhu, Weishu Wu, Seong-Yong Jeong, and Xudong Fan. <br> [Microfluidic integration of μPID on μcolumn for ultracompact micro-gas chromatography](https://doi.org/10.1016/j.snb.2024.135717) <br><em> Sensors and Actuators B: Chemical 410, 135717, March 2024. </em>
