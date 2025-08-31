@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://anjalidevisivakumar.github.io/anjali.github.io/files/Resume_2024.pdf)
-
 <br> I'm a Ph.D. candidate in Electrical and Computer Engineering at the University of Michigan—Ann Arbor, advised by Prof. Xudong (Sherman) Fan and Prof.Zhaohui Zhong. 
 <br>My research focuses on developing high-performance analytical instruments for gas sensing, with an emphasis on hygrometer-based systems and micro gas chromatography (µGC). I specialize in integrating MEMS components, low-power control electronics, and advanced signal processing techniques to enhance the sensitivity, selectivity, and portability of gas sensing platforms. My work aims to deliver compact, high-sensitivity gas analyzers for applications in environmental monitoring, healthcare, and industrial safety. My research interests include microsystems, analog and mixed-signal circuit design, chemical sensor technologies, and point-of-care diagnostics.
 
