@@ -2,7 +2,8 @@
 main:
   - title: "Home"
     url: /about/
-    
+  - title: "CV"
+    url: "https://anjalidevisivakumar.github.io/files/Resume_2024.pdf"
   - title: "Publications"
     url: /publications/
     
