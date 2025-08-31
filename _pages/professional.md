@@ -18,4 +18,16 @@ author_profile: true
 - Advised undergraduate students on conducting research and presenting findings at symposium.
 
 
+<b>Mentoring Experience:</b>
+============================
+2021-Present: University of Michigan: 6 Undergrads and 2 Master's Students
+- Tianyue Li (B.S., CSC 2023)
+- Bryan Li (B.S., ECE 2026)
+- Eric Ding (B.S., CSC 2024)
+- Jackie Lin (B.S., CSC 2027)
+- Ava Fisher (B.S., BME 2027)
+- Andres Link (B.S., BME 2028)
+- Sumedh Yewale (M.S., BME 2025)
+- Yamini Sri Krubha (M.S., ECE 2027) 
+
 
