@@ -11,10 +11,9 @@ author_profile: true
 
 <b>Preprints</b>
 ======
-
 * Ruchi Sharma, Wenzhe Zang, Ali Tabartehfarahani, Andres Lam, Xiaheng Huang, <b> Anjali D Sivakumar</b>, Chandrakalavathi Thota, Shuo Yang, Robert P Dickson, Michael W Sjoding, Erin Bisco, Carmen Colmenero Mahmood, Kristen Machado Diaz, Nicholas Sautter, Sardar Ansari, Kevin R Ward, Xudong Fan. <br> [Portable breath-based volatile organic compound monitoring for the detection of COVID-19: challenges of emerging variants](https://doi.org/10.1101/2022.09.06.22279649)<br><em>medRxiv, September 09, 2022.</em>
 
-<b>Journal</b>
+<b>Journals</b>
 ======
 * <b>Anjali Devi Sivakumar </b>, Ruchi Sharma, Junqi Wang, Weiliang Liang, Yulong Zhou, and Xudong Fan (submitted)
 * Makiko Mitsunami, Hemanth Kandula, <b> Anjali Devi Sivakumar </b>, Tejas Girish Deshpande, Jasmine Kumar, Susitra Gnanasambhandam, Prudhvi Thirumalaraju, Manoj Kumar Kanakasabapathy, Charles L Bormann, Martin Kathrins, Hadi Shafiee, Jorge E Chavarro, Jaime E Hart. <br> [Comparing remote smartphone-based semen assessments with laboratory evaluations in men unselected for fertility concerns](https://www.sciencedirect.com/science/article/pii/S0015028225005539)<br><em>Fertility and Sterility, 2025.</em>
@@ -33,7 +32,7 @@ author_profile: true
 
 * Manoj Kumar Kanakasabapathy, Prudhvi Thirumalaraju, Hemanth Kandula, Fenil Doshi, <b>Anjali Devi Sivakumar</b>, Deeksha Kartik, Raghav Gupta, Rohan Pooniwala, John A Branda, Athe M Tsibris, Daniel R. Kuritzkes, John C Petrozza, Charles L Bormann, Hadi Shafiee. <br>[Adaptive Adversarial Neural Networks for Lossy and Domain-Shifted Medical Image Analysis](https://doi.org/10.1038/s41551-021-00733-w) <br><em> Nature Biomedical Engineering 5, 571-585, June 2021. </em>
   
-<b>Conference</b>
+<b>Conferences</b>
 ======
 
 * <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br> [WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring](https://event.fourwaves.com/umskc2025/abstracts/c1b01675-9540-4c02-91c6-1ac51ce5b95a) <br><em>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, February 2025. </em>
@@ -43,8 +42,8 @@ author_profile: true
 
 <b>Patents</b>
 ======
-*	Xudong Fan, <b> Anjali Devi Sivakumar</b>, ‘Dual-Channel PID’, 2025 (Patent disclosure filed)
-*	Xudong Fan, <b> Anjali Devi Sivakumar</b>, ‘Modifications to TEWL device’, 2025 (Patent disclosure filed).
+*	Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> ‘Dual-Channel PID’, 2025 (Patent disclosure filed)
+*	Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> ‘Modifications to TEWL device’, 2025 (Patent disclosure filed).
 * Xudong Fan, Ruchi Sharma, Chandrakalavathi Thota, <b> Anjali Devi Sivakumar</b>, Ali Tabartehfarahani, Shuo Yang, Wencheng Li, Loc Cao, Sardar Ansari.<br> Skin emission sampling pouch, 2024 (Patent disclosure filed).
 * Xudong Fan, Xiaheng Huang, Shuo Yang, Wencheng Li, Robert Nidetz, Ruchi Sharma, <b>Anjali Devi Sivakumar</b>, Chandrakalavathi Thota, Hongbo Zhu, Weishu Wu, Seong-Yong Jeong. <br> ‘Monolithic integration of micro-gas chromatography column and micro-photoionization detector on a chip’, (Provisional patent application number:  63/622,741,  filed on January 19, 2024).
 * Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> [‘A transepidermal water loss device’](https://patents.google.com/patent/US20240252099A1/en) (PCT application number: 18/428,514, filed on February 1, 2024).
