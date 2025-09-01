@@ -43,7 +43,8 @@ author_profile: true
 
 <b>Patents</b>
 ======
-* Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> Microfluidics differential photoionization detector, 2024 (Patent disclosure filed).
+*	Xudong Fan, <b> Anjali Devi Sivakumar</b>, ‘Dual-Channel PID’, 2025 (Patent disclosure filed)
+*	Xudong Fan, <b> Anjali Devi Sivakumar</b>, ‘Modifications to TEWL device’, 2025 (Patent disclosure filed).
 * Xudong Fan, Ruchi Sharma, Chandrakalavathi Thota, <b> Anjali Devi Sivakumar</b>, Ali Tabartehfarahani, Shuo Yang, Wencheng Li, Loc Cao, Sardar Ansari.<br> Skin emission sampling pouch, 2024 (Patent disclosure filed).
 * Xudong Fan, Xiaheng Huang, Shuo Yang, Wencheng Li, Robert Nidetz, Ruchi Sharma, <b>Anjali Devi Sivakumar</b>, Chandrakalavathi Thota, Hongbo Zhu, Weishu Wu, Seong-Yong Jeong. <br> ‘Monolithic integration of micro-gas chromatography column and micro-photoionization detector on a chip’, (Provisional patent application number:  63/622,741,  filed on January 19, 2024).
 * Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> [‘A transepidermal water loss device’](https://patents.google.com/patent/US20240252099A1/en) (PCT application number: 18/428,514, filed on February 1, 2024).
