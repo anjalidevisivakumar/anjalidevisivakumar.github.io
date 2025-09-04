@@ -7,7 +7,7 @@ author_profile: true
 
 
 * Received the Dr. Helen Wu Award from Rackham Graduate School for Spring/Summer 2024.
-* (/anjalidevisivakumar.github.io/files/barbour-discover-rackham-header-980x613-1.png) Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.
+* (../files/barbour-discover-rackham-header-980x613-1.png) Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.
 * Received the Rackham Conference Travel Grant from Rackham Graduate School for the academic year 2024-25.
 * Inducted into the Excellence in ECE Honor Roll 2023-24 for service to the ECE department through contributions to department-specific events and programming designed to foster an inclusive, supportive community for all.
 * Awarded the Research Excellence Award from Brigham Research Institute for outstanding contributions to research at Brigham and Women’s Hospital on Nov-12,2020.
