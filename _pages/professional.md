@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional and Outreach Activities"
+title: "Leadership and Service"
 permalink: /professional/
 author_profile: true
 ---
