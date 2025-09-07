@@ -59,6 +59,6 @@ author_profile: true
 
   <p style="display: flex; align-items: center;">
   <img src="../images/IWMA.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the prestigious <b>Young Environmental Scientist-2014 Award</b> from IWMA. <a href="https://www.iwma.in/yes-2014-winners.php">Announcement</a>a></span> 
+  <span>Awarded the prestigious <b>Young Environmental Scientist-2014 Award</b> from IWMA. <a href="https://www.iwma.in/yes-2014-winners.php">Announcement</a></span> 
   <br>
   
