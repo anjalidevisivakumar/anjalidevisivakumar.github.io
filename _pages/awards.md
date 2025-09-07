@@ -40,12 +40,12 @@ author_profile: true
   
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
-  <span> Awarded the <b>Dr. V.Jayashankar Award</b> for student who has secured highest CGPA., upto VII Semester in the B.Tech.-Electronics and Instrumentation Engineering & M.Tech (5-year Integrated) Instrumentation & Control Programme.</span>
+  <span> Awarded the <b>Dr. V.Jayashankar Award</b> for student who has secured highest CGPA., upto VII Semester in the B.Tech.-Electronics and Instrumentation Engineering & M.Tech (5-year Integrated) Instrumentation & Control Programme. <a href="https://www.sastra.edu/downloads/news/2019/apr/Off%20Stage%20University%20Day%20Award%20%202019%20Webmaster.pdf"> Announcement </a></span>
   <br>
   
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
-  <span> Awarded the <b>Shri. Vishwantha Iyer Award</b> for best outgoing student from the Department of Electronics and Instrumentation Engineering amongst the graduating batch of 2019.</span>
+  <span> Awarded the <b>Shri. Vishwantha Iyer Award</b> for best outgoing student from the Department of Electronics and Instrumentation Engineering amongst the graduating batch of 2019.<a href="https://www.sastra.edu/downloads/news/2019/apr/Off%20Stage%20University%20Day%20Award%20%202019%20Webmaster.pdf"> Announcement </a></span>
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
