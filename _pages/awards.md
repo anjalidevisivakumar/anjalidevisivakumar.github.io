@@ -8,12 +8,12 @@ author_profile: true
 <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b> Dr. Helen Wu Award </b>from Rackham Graduate School for Spring/Summer 2024.</span>
+  <span>Received the <b> Dr. Helen Wu Award </b>from Rackham Graduate School for Spring/Summer 2024 to support my research on analytical wearables for health monitoring.</span>
     
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25.</span>
+  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring.[news](https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring)</span>
     
   <br>
   <p style="display: flex; align-items: center;">
