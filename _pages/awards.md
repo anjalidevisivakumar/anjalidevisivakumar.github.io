@@ -5,10 +5,20 @@ permalink: /awards/
 author_profile: true
 ---
 
-
-* Received the Dr. Helen Wu Award from Rackham Graduate School for Spring/Summer 2024.
-*  Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.
-* Received the Rackham Conference Travel Grant from Rackham Graduate School for the academic year 2024-25.
+<br>
+  <p style="display: flex; align-items: center;">
+  <img src="../images/M_Rackham.png" width="50" style="margin-right: 20px;" />
+  <span>Received the Dr. Helen Wu Award from Rackham Graduate School for Spring/Summer 2024.</span>
+    
+  <br>
+  <p style="display: flex; align-items: center;">
+  <img src="../images/barbour.png" width="50" style="margin-right: 20px;" />
+  <span>Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.</span>
+    
+  <br>
+  <p style="display: flex; align-items: center;">
+  <img src="../images/M_Rackham.png" width="50" style="margin-right: 20px;" />
+  <span>Received the Rackham Conference Travel Grant from Rackham Graduate School for the academic year 2024-25.</span>
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/UM_ECE.jfif" width="50" style="margin-right: 20px;" />
