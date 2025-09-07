@@ -54,7 +54,7 @@ author_profile: true
     
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
-  <span> Awarded the <b>Shri. A.Venkataraman Award</b> for academic excellence.</span>
+  <span> Awarded the <b>Shri. A.Venkataraman Award</b> for academic excellence.<a href="https://www.sastra.edu/downloads/news/2018/apr/University_Day_2018.pdf">Announcement</a></span>
   <br>
 
   <p style="display: flex; align-items: center;">
