@@ -14,14 +14,17 @@ author_profile: true
 
 <b>Mentoring Experience:</b>
 ============================
-2021-Present: University of Michigan: 6 Undergrads and 2 Master's Students
-- Tianyue Li (B.S., CSC 2023)
-- Bryan Li (B.S., ECE 2026)
-- Eric Ding (B.S., CSC 2024)
-- Jackie Lin (B.S., CSC 2027)
-- Ava Fisher (B.S., BME 2027)
-- Andres Link (B.S., BME 2028)
-- Sumedh Yewale (M.S., BME 2025)
-- Yamini Sri Krubha (M.S., ECE 2027) 
+2021-Present: Research Mentor, University of Michigan: 9 Undergrads and 2 Master's Students
+- Tianyue Li (B.S., CSC, 2022-2023)
+- Bryan Li (B.S., ECE, 2023-2024)
+- Eric Ding (B.S., CSC, 2023)
+- Yiting Lai (B.S., ECE, 2023)
+- Jackie Lin (B.S., CSC, 2023-2024)
+- Ava Fisher (B.S., BME, 2023-2024)
+- Arnav Sadasivan (B.S., CSC, 2023-2024)
+- Ryan Wang (B.S., ECE, 2024)
+- Andres Link (B.S., 2024-2025)
+- Sumedh Yewale (M.S., BME, 2024-2025)
+- Yamini Sri Krubha (M.S., ECE, 2025-present) 
 
 
