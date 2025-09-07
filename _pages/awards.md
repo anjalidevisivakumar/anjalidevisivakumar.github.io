@@ -10,8 +10,8 @@ author_profile: true
 *  Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.
 * Received the Rackham Conference Travel Grant from Rackham Graduate School for the academic year 2024-25.
 <p>
-<img src="../images/UM_ECE.jfif" width="100"/>
-<span style="vertical-align: middle;">Inducted into the Excellence in ECE Honor Roll 2023-24 for service to the ECE department through contributions to department-specific events and programming designed to foster an inclusive, supportive community for all.</span>
+<img src="../images/UM_ECE.jfif" width="100" style="vertical-align: middle; margin-right: 10px;"/>
+  Inducted into the Excellence in ECE Honor Roll 2023-24 for service to the ECE department through contributions to department-specific events and programming designed to foster an inclusive, supportive community for all.
 </p>
 * Awarded the Research Excellence Award from Brigham Research Institute for outstanding contributions to research at Brigham and Women’s Hospital on Nov-12,2020.
 * Received the Desh Videsh Scholarship for pursuing my bachelor's thesis at Harvard Medical School, MA, USA.
