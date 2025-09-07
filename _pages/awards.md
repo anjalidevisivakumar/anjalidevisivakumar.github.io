@@ -47,7 +47,11 @@ author_profile: true
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
   <span> Awarded the <b>Shri. Vishwantha Iyer Award</b> for best outgoing student from the Department of Electronics and Instrumentation Engineering amongst the graduating batch of 2019.</span>
   <br>
-
+  <p style="display: flex; align-items: center;">
+  <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
+  <span> Received the <b>Dean’s Merit Scholarship</b> for being in the top 2% of UG Batch 2015-2018 in terms of academic performance.</span>
+  <br>
+    
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
   <span> Awarded the <b>Shri. A.Venkataraman Award</b> for academic excellence.</span>
