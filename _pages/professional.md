@@ -12,7 +12,7 @@ author_profile: true
   <p style="display: flex; align-items: center;">
   <img src="../files/CAN_Image.jpg" width="500" style="margin-right: 20px;" />
   <span>Co-organized Explorer Day sponsored by Aptiv in Fall 2024, welcoming 15+ children from the Community Action Network (CAN), which supports under-resourced families in Washtenaw County; the event featured a visit to the UM campus and the Natural History Museum.</span> 
-
+  </p>
 <b>Mentoring Experience</b>
 ============================
 2021-Present: Research Mentor, University of Michigan: 9 Undergrads and 2 Master's Students
