@@ -22,7 +22,7 @@ author_profile: true
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/UM_ECE.jfif" width="100" style="margin-right: 20px;" />
-  <span>Inducted into the <b>Excellence in ECE Honor Roll 2023-24</b> for service to the ECE department through contributions to department-specific events and programming designed to foster an inclusive, supportive community for all.</span>
+  <span>Inducted into the <b>Excellence in ECE Honor Roll 2023-24</b> for service to the ECE department through contributions to department-specific events and programming designed to foster an inclusive, supportive community for all. <a href="https://ece.engin.umich.edu/stories/four-students-inducted-into-the-2023-2024-excellence-in-ece-honor-roll">News</a></span>
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/BWH.png" width="100" style="margin-right: 20px;" />
