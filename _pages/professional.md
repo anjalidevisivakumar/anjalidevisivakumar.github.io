@@ -8,8 +8,11 @@ author_profile: true
 ====================
 <b> Graduate Society of Women Engineers (GradSWE), University of Michigan Ann Arbor, MI </b>
 <br>Senior K12 Outreach Officer May 2023- Present
-- Organized and led robotics workshop modules for Junior Girl Scouts, engaging over 25 participants during Winter 2024, Fall 2024, and Winter 2025, sponsored by Aptiv and the UM Center for Educational Outreach (CEO).
-- Collaborated with Tau Beta Pi and the Mechanical Engineering Graduate Student Council to orchestrate Engineering Day for Brownie and Junior Girl Scouts, providing hands-on activities to introduce various engineering disciplines.
+<br>
+  <p style="display: flex; align-items: center;">
+  <img src="../files/Group_Photo_Robotics.jpg" width="500" style="margin-right: 20px;" />
+  <img src="../files/Robotics_track.png" width="500" style="margin-right: 20px;" />
+  <span>Organized and led robotics workshop modules for Junior Girl Scouts, engaging over 25 participants during Winter 2024, Fall 2024, and Winter 2025, sponsored by Aptiv and the UM Center for Educational Outreach (CEO).</span> 
 
   <br>
   <p style="display: flex; align-items: center;">
