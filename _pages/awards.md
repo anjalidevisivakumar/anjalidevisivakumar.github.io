@@ -7,25 +7,25 @@ author_profile: true
 
 <br>
   <p style="display: flex; align-items: center;">
-  <img src="../images/M_Rackham.png" width="50" style="margin-right: 20px;" />
+  <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
   <span>Received the Dr. Helen Wu Award from Rackham Graduate School for Spring/Summer 2024.</span>
     
   <br>
   <p style="display: flex; align-items: center;">
-  <img src="../images/barbour.png" width="50" style="margin-right: 20px;" />
+  <img src="../images/barbour.png" width="100" style="margin-right: 20px;" />
   <span>Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.</span>
     
   <br>
   <p style="display: flex; align-items: center;">
-  <img src="../images/M_Rackham.png" width="50" style="margin-right: 20px;" />
+  <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
   <span>Received the Rackham Conference Travel Grant from Rackham Graduate School for the academic year 2024-25.</span>
   <br>
   <p style="display: flex; align-items: center;">
-  <img src="../images/UM_ECE.jfif" width="50" style="margin-right: 20px;" />
+  <img src="../images/UM_ECE.jfif" width="100" style="margin-right: 20px;" />
   <span>Inducted into the Excellence in ECE Honor Roll 2023-24 for service to the ECE department through contributions to department-specific events and programming designed to foster an inclusive, supportive community for all.</span>
   <br>
   <p style="display: flex; align-items: center;">
-  <img src="../images/BWH.png" width="50" style="margin-right: 20px;" />
+  <img src="../images/BWH.png" width="100" style="margin-right: 20px;" />
   <span>Awarded the Research Excellence Award from Brigham Research Institute for outstanding contributions to research at Brigham and Women’s Hospital on Nov-12,2020.</span>
   <br>
   <p style="display: flex; align-items: center;">
