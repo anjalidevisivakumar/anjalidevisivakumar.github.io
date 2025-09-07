@@ -4,7 +4,7 @@ title: "Leadership and Service"
 permalink: /professional/
 author_profile: true
 ---
-<b>K12 Outreach:</b>
+<b>K12 Outreach</b>
 ====================
 <b> Graduate Society of Women Engineers (GradSWE), University of Michigan Ann Arbor, MI </b>
 <br>Senior K12 Outreach Officer May 2023- Present
@@ -12,7 +12,7 @@ author_profile: true
 - Co-organized Explorer Day sponsored by Aptiv in Fall 2024, welcoming 15+ children from the Community Action Network (CAN), which supports under-resourced families in Washtenaw County; the event featured a visit to the UM campus and the Natural History Museum.
 - Collaborated with Tau Beta Pi and the Mechanical Engineering Graduate Student Council to orchestrate Engineering Day for Brownie and Junior Girl Scouts, providing hands-on activities to introduce various engineering disciplines.
 
-<b>Mentoring Experience:</b>
+<b>Mentoring Experience</b>
 ============================
 2021-Present: Research Mentor, University of Michigan: 9 Undergrads and 2 Master's Students
 - Tianyue Li (B.S., CSC, 2022-2023)
