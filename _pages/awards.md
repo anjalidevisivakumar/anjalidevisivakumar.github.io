@@ -13,7 +13,7 @@ author_profile: true
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring.<a href="https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring">news</a></span>
+  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring. <a href="https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring">News1</a> <a href="https://rackham.umich.edu/discover-rackham/announcing-the-2024-2025-barbour-scholars/"> News2</a></span> 
     
   <br>
   <p style="display: flex; align-items: center;">
