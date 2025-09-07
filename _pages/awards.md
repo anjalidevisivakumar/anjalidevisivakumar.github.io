@@ -12,7 +12,7 @@ author_profile: true
     
   <br>
   <p style="display: flex; align-items: center;">
-  <img src="../images/barbour.png" width="100" style="margin-right: 20px;" />
+  <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
   <span>Awarded the Barbour Scholarship from Rackham Graduate School for the academic year 2024-25.</span>
     
   <br>
