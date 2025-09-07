@@ -35,7 +35,7 @@ author_profile: true
   
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the <b>Smt. K.Thulasi Memorial Award</b> for best outgoing student from School of Electrical and Electronics Engineering amongst the graduating batch of 2019.</span>
+  <span>Awarded the <b>Smt. K.Thulasi Memorial Award</b> for best outgoing student from School of Electrical and Electronics Engineering amongst the graduating batch of 2019.<a href="https://www.sastra.edu/downloads/newsletters/vol19/2019%20-%202.pdf> Announcement</a></span>
   <br>
   
   <p style="display: flex; align-items: center;">
