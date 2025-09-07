@@ -13,7 +13,7 @@ author_profile: true
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring. <a href="https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring">News1</a> <a href="https://rackham.umich.edu/discover-rackham/announcing-the-2024-2025-barbour-scholars/"> News2</a></span> 
+  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring. <a href="https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring">News</a> <a href="https://rackham.umich.edu/discover-rackham/announcing-the-2024-2025-barbour-scholars/"> Announcement</a></span> 
     
   <br>
   <p style="display: flex; align-items: center;">
@@ -26,7 +26,7 @@ author_profile: true
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/BWH.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the <b>Research Excellence Award</b> from Brigham Research Institute for outstanding contributions to research at Brigham and Women’s Hospital on Nov-12,2020.</span>
+  <span>Awarded the <b>Research Excellence Award</b> from Brigham Research Institute for outstanding contributions to research at Brigham and Women’s Hospital on Nov-12,2020.<a href="https://www.discoverbrigham.org/funding/bri-awards/research-excellence-awards/">Announcement</a></span>
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/SASTRA.png" width="100" style="margin-right: 20px;" />
