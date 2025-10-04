@@ -15,7 +15,7 @@ author_profile: true
 
 <b>Journals</b>
 ======
-* <b>Anjali Devi Sivakumar </b>, Ruchi Sharma, Junqi Wang, Weiliang Liang, Yulong Zhou, and Xudong Fan. (accepted)<br> Dual-Channel Microfluidic Photoionization Detector <br> <em> Analytical Chemistry, 2025. </em>
+* <b>Anjali Devi Sivakumar </b>, Ruchi Sharma, Junqi Wang, Weiliang Liang, Yulong Zhou, and Xudong Fan. (accepted)<br> [Dual-Channel Microfluidic Photoionization Detector](https://doi.org/10.1021/acs.analchem.5c05021) <br> <em> Analytical Chemistry, 2025. </em>
 
 * Makiko Mitsunami, Hemanth Kandula, <b> Anjali Devi Sivakumar </b>, Tejas Girish Deshpande, Jasmine Kumar, Susitra Gnanasambhandam, Prudhvi Thirumalaraju, Manoj Kumar Kanakasabapathy, Charles L Bormann, Martin Kathrins, Hadi Shafiee, Jorge E Chavarro, Jaime E Hart. <br> [Comparing remote smartphone-based semen assessments with laboratory evaluations in men unselected for fertility concerns](https://www.sciencedirect.com/science/article/pii/S0015028225005539)<br><em>Fertility and Sterility, 2025.</em>
 
