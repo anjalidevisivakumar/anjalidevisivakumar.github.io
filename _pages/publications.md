@@ -36,8 +36,8 @@ author_profile: true
 <b>Conferences</b>
 ======
 
-*<b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Xudong Fan. <br> [High Performance Microfluidic Dual Channel Photoionization Detector for Trace Vapor Detection] <br> <em> Pittcon 2026, San Antonio, March 2026. </em>
-*  <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br> [WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring](https://event.fourwaves.com/umskc2025/abstracts/c1b01675-9540-4c02-91c6-1ac51ce5b95a) <br><em>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, February 2025. </em>
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Xudong Fan. <br> [High Performance Microfluidic Dual Channel Photoionization Detector for Trace Vapor Detection] <br> <em> Pittcon 2026, San Antonio, March 2026. </em>
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br> [WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring](https://event.fourwaves.com/umskc2025/abstracts/c1b01675-9540-4c02-91c6-1ac51ce5b95a) <br><em>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, February 2025. </em>
 * Haolin Li, Ruchi Sharma, Chandrakalavathi Thota, Xiaheng Huang, <b>Anjali Devi Sivakumar</b>, Xudong Fan, Zhaohui Zhong. <br> [Programmable Graphene e-Nose Sensor Arrays for Fast, Sensitive, and Label-Free Identification of Chemical Vapors](10.1149/MA2024-01121004mtgabs) <br> <em>  The Electrochemical Society Meetings 2024</em> 
 
 * <b> Anjali Devi Sivakumar </b>, Ruchi Sharma, Chandrakalavathi Thota, Xudong Fan. <br> WASP: Wearable Analytical Skin Probe <br><em> 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Orlando, Florida, July 2024.</em>
