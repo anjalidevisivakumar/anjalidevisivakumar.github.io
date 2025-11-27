@@ -4,7 +4,16 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+<br>
+  <p style="display: flex; align-items: center;">
+  <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
+  <span>Received the <b> Rackham International Student Fellowship </b>from Rackham Graduate School for Winter 2026 to support my research on analytical wearables for health monitoring.</span>
 
+<br>
+  <p style="display: flex; align-items: center;">
+  <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
+  <span>Received the <b>Rackham Graduate Student Research Grant</b> to support my research on Au-In TLP bonding.</span>
+    
 <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
@@ -18,7 +27,8 @@ author_profile: true
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b>Rackham Conference Travel Grant</b> from Rackham Graduate School for the academic year 2024-25.</span>
+  <span>Received the <b>Rackham Conference Travel Grant</b> from Rackham Graduate School for the academic year 2024-25 and 2025-26.</span>
+    
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/UM_ECE.jfif" width="100" style="margin-right: 20px;" />
