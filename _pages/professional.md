@@ -22,7 +22,7 @@ author_profile: true
 
 <b>Mentoring Experience</b>
 ============================
-2021-Present: Research Mentor, University of Michigan: 9 Undergrads and 2 Master's Students
+2021-Present: Research Mentor, University of Michigan: 9 Undergrads and 4 Master's Students
 - Tianyue Li (B.S., CSC, 2022-2023)
 - Bryan Li (B.S., ECE, 2023-2024)
 - Eric Ding (B.S., CSC, 2023)
