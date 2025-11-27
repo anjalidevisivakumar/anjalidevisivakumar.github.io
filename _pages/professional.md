@@ -33,6 +33,8 @@ author_profile: true
 - Ryan Wang (B.S., ECE, 2024)
 - Andres Link (B.S., 2024-2025)
 - Sumedh Yewale (M.S., BME, 2024-2025)
-- Yamini Sri Krubha (M.S., ECE, 2025-present) 
+- Yamini Sri Krubha (M.S., ECE, 2025-present)
+- Zikai Zhou (M.S., ECE, 2025-present)
+- Aoyu Dong (M.S., ECE, 2025-present)
 
 
