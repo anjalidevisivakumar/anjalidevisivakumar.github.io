@@ -7,27 +7,27 @@ author_profile: true
 <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b> Rackham International Student Fellowship </b>from Rackham Graduate School for Winter 2026 to support my research on analytical wearables for health monitoring.</span>
+  <span>Received the <b> Rackham International Student Fellowship of $14,596 </b> from Rackham Graduate School for Winter 2026 to support my research on analytical wearables for health monitoring.</span>
 
 <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b>Rackham Graduate Student Research Grant</b> to support my research on Au-In TLP bonding.</span>
+  <span>Received the <b>Rackham Graduate Student Research Grant of $3,000 </b> to support my research on Au-In TLP bonding.</span>
     
 <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b> Dr. Helen Wu Award </b>from Rackham Graduate School for Spring/Summer 2024 to support my research on analytical wearables for health monitoring.</span>
+  <span>Received the <b> Dr. Helen Wu Award of $8,000 </b>from Rackham Graduate School for Spring/Summer 2024 to support my research on analytical wearables for health monitoring.</span>
     
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Awarded the <b>Barbour Scholarship</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring. <a href="https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring">News</a> <a href="https://rackham.umich.edu/discover-rackham/announcing-the-2024-2025-barbour-scholars/"> Announcement</a></span> 
+  <span>Awarded the <b>Barbour Scholarship covering full tuition and a stipend of $36,084</b> from Rackham Graduate School for the academic year 2024-25 to support my research on analytical wearables for health monitoring. <a href="https://ece.engin.umich.edu/stories/anjali-devi-sivakumar-awarded-barbour-scholarship-to-support-her-research-on-analytical-wearables-for-health-monitoring">News</a> <a href="https://rackham.umich.edu/discover-rackham/announcing-the-2024-2025-barbour-scholars/"> Announcement</a></span> 
     
   <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b>Rackham Conference Travel Grant</b> from Rackham Graduate School for the academic year 2024-25 and 2025-26.</span>
+  <span>Received the <b>Rackham Conference Travel Grant of $900</b> from Rackham Graduate School for the academic year 2024-25 and 2025-26.</span>
     
   <br>
   <p style="display: flex; align-items: center;">
