@@ -51,7 +51,7 @@ author_profile: true
 
 <b>Patents</b>
 ======
-*	Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> ‘Dual-Channel PID’, 2025 (Patent disclosure filed)
+*	Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> 'Dual-channel photoionization detector and methods for use thereof', (Provisional patent application no. 63/890,891, filed on September 30, 2025).
 *	Xudong Fan, <b> Anjali Devi Sivakumar</b>. <br> ‘Modifications to TEWL device’, 2025 (Patent disclosure filed).
 * Xudong Fan, Ruchi Sharma, Chandrakalavathi Thota, <b> Anjali Devi Sivakumar</b>, Ali Tabartehfarahani, Shuo Yang, Wencheng Li, Loc Cao, Sardar Ansari.<br> Skin emission sampling pouch, 2024 (Patent disclosure filed).
 * Xudong Fan, Xiaheng Huang, Shuo Yang, Wencheng Li, Robert Nidetz, Ruchi Sharma, <b>Anjali Devi Sivakumar</b>, Chandrakalavathi Thota, Hongbo Zhu, Weishu Wu, Seong-Yong Jeong. <br> ‘Monolithic integration of micro-gas chromatography column and micro-photoionization detector on a chip’, (Provisional patent application number:  63/622,741,  filed on January 19, 2024).
