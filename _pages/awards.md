@@ -7,7 +7,7 @@ author_profile: true
 <br>
   <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
-  <span>Received the <b> Rackham International Student Fellowship of $14,596 </b> from Rackham Graduate School for Winter 2026 to support my research on analytical wearables for health monitoring.News</a> <a href="https://ece.engin.umich.edu/stories/two-ece-graduate-students-awarded-rackham-international-student-fellowship/"></span>
+  <span>Received the <b> Rackham International Student Fellowship of $14,596 </b> from Rackham Graduate School for Winter 2026 to support my research on analytical wearables for health monitoring.<a href="https://ece.engin.umich.edu/stories/two-ece-graduate-students-awarded-rackham-international-student-fellowship/">News</a></span>
 
 <br>
   <p style="display: flex; align-items: center;">
