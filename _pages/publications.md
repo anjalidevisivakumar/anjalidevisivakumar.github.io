@@ -13,7 +13,7 @@ author_profile: true
 ======
 * Ruchi Sharma, Wenzhe Zang, Ali Tabartehfarahani, Andres Lam, Xiaheng Huang, <b> Anjali D Sivakumar</b>, Chandrakalavathi Thota, Shuo Yang, Robert P Dickson, Michael W Sjoding, Erin Bisco, Carmen Colmenero Mahmood, Kristen Machado Diaz, Nicholas Sautter, Sardar Ansari, Kevin R Ward, Xudong Fan. <br> [Portable breath-based volatile organic compound monitoring for the detection of COVID-19: challenges of emerging variants](https://doi.org/10.1101/2022.09.06.22279649)<br><em>medRxiv, September 09, 2022.</em>
 
-<b>Journals</b>
+<b>Peer-Reviewed Journals</b>
 ======
 * <b>Anjali Devi Sivakumar </b>, Ruchi Sharma, Junqi Wang, Weiliang Liang, Yulong Zhou, and Xudong Fan. (accepted)<br> [Dual-Channel Microfluidic Photoionization Detector](https://doi.org/10.1021/acs.analchem.5c05021) <br> <em> Analytical Chemistry, 2025. </em>
 
@@ -33,16 +33,21 @@ author_profile: true
 
 * Manoj Kumar Kanakasabapathy, Prudhvi Thirumalaraju, Hemanth Kandula, Fenil Doshi, <b>Anjali Devi Sivakumar</b>, Deeksha Kartik, Raghav Gupta, Rohan Pooniwala, John A Branda, Athe M Tsibris, Daniel R. Kuritzkes, John C Petrozza, Charles L Bormann, Hadi Shafiee. <br>[Adaptive Adversarial Neural Networks for Lossy and Domain-Shifted Medical Image Analysis](https://doi.org/10.1038/s41551-021-00733-w) <br><em> Nature Biomedical Engineering 5, 571-585, June 2021. </em>
   
-<b>Conferences</b>
+<b>Conference Proceedings</b>
 ======
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Anjali Sundar, Charles Schuler, and Xudong Fan. <br>WASP: A Next-Generation Wearable Solution for Personalized Skin Health Monitoring <br>Pittcon 2026, San Antonio, USA, March 2026. (Accepted)
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, and Xudong Fan. <br>High Performance Microfluidic Dual Channel Photoionization Detector for Trace Vapor Detection <br>Pittcon 2026, San Antonio, USA, March 2026. (Accepted)
+* Anjali Sundar, <b>Anjali Devi Sivakumar</b>, Lea Franco, Bridgette Kaul, Xudong Fan, Charles F. Schuler. <br>Utilizing a Novel Wearable Water Loss Monitor to Detect and Predict Food Anaphylaxis <br>American Academy of Allergy, Asthma & Immunology Annual Meeting, Philadelphia, USA, February 2026. (Accepted).
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br>[WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring](https://event.fourwaves.com/umskc2025/abstracts/c1b01675-9540-4c02-91c6-1ac51ce5b95a) <br>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, USA, February 2025.
+* Anjali Devi Sivakumar, <b>Ruchi Sharma</b>, Chandrakalavathi Thota, Xudong Fan. <br>WASP: Wearable Analytical Skin Probe <br>46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Orlando, USA, July 2024.
+* Ruchi Sharma, <b>Anjali Devi Sivakumar</b>, Chandrakalavathi Thota, Ali Tabartehfarahani, Shuo Yang, Loc Cao, Brittany Baur, Haolin Li, Sardar Ansari, Zhaohui Zhong, and Xudong Fan <br>Wearable Micro-GC Device for Non-Invasive Monitoring of Sweat VOC Patterns: Advancements in Disease Diagnosis <br>Breath Summit 2024: International Congress For Breath Research (IABR), Indiana, USA, June 2024.
+* Haolin Li, Ruchi Sharma, Xiaheng Huang, Chandrakalavathi Thota, <b>Anjali Devi Sivakumar</b>, Xudong Fan, Zhaohui Zhong <br>Programmable Graphene e-Nose Sensor Arrays for Fast, Sensitive, and Label-free Identification of Chemical Vapors”, MRS Spring Meeting, Seattle, USA, April 2024.
+* Haolin Li, Ruchi Sharma, Xiaheng Huang, Chandrakalavathi Thota, <b>Anjali Devi Sivakumar</b>, Xudong Fan, Zhaohui Zhong. <br>[Programmable Graphene e-Nose Sensor Arrays for Fast, Sensitive, and Label-Free Identification of Chemical Vapors](10.1149/MA2024-01121004mtgabs)<br> 245th ECS Meeting, San Francisco, USA, May 2024.
+* Xiaheng Huang, Shuo Yang, Wencheng Li, Robert Nidetz, Ruchi Sharma, <b>Anjali Devi Sivakumar</b>, Chandrakalavathi Thota, Hongbo Zhu, Weishu Wu, Seong-Yong Jeong, Xudong Fan <br>Monolithically Integrated μPID on μCOLUMNS for Ultracompact Micro-Gas Chromatography <br>37th International Conference on Micro Electro Mechanical Systems (MEMS), Austin, USA, January 2024.
+* Loc Cao, Wenzhe Zang, Ruchi Sharma, Ali Tabartehfarahani, Chandrakalavathi Thota, <b>Anjali Devi Sivakumar</b>, Andres Lam, Xudong Fan, Kevin R Ward, Sardar Ansari <br>Automated Gas Chromatography Peak Alignment: A Deep Learning Approach using Greedy Optimization and Simulation <br>45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Sydney, Australia, July 2023.
+* Ahmed Shokr, Luis G. C. Pacheco, Prudhvi Thirumalaraju, Manoj K. Kanakasabapathy, <b>Anjali Devi Sivakumar</b>, Jahnavi Gandhi, Deeksha Kartik, Filipe S. R. Silva, Eda Erdogmus, Sai Hemanth K. Kandula, Shenglin Luo, Xu G. Yu, Raymond T. Chung, Jonathan Z. Li, Daniel R. Kuritzkes, and Hadi Shafiee <br>Rapid, Sensitive, Point-of-Care Detection of SARS-CoV-2 On-Chip <br>Discover Brigham,Virtual, November 2020. </em> [Presentation](https://www.youtube.com/watch?v=ZuF-BC5m7K0)
+* <b>Anjali Devi Sivakumar</b> and Anoop C.S.<br>[Analog and Direct-Digital Front-End Circuits Suitable for Low-Valued Resistive Sensors](10.1109/INDICON45594.2018.8987030) <br>15th IEEE India Council International Conference, Coimbatore, India, December 2018.
 
-* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Xudong Fan. <br> High Performance Microfluidic Dual Channel Photoionization Detector for Trace Vapor Detection <br> <em> Pittcon 2026, San Antonio, March 2026. </em>
-* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br> [WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring](https://event.fourwaves.com/umskc2025/abstracts/c1b01675-9540-4c02-91c6-1ac51ce5b95a) <br><em>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, February 2025. </em>
-* Haolin Li, Ruchi Sharma, Chandrakalavathi Thota, Xiaheng Huang, <b>Anjali Devi Sivakumar</b>, Xudong Fan, Zhaohui Zhong. <br> [Programmable Graphene e-Nose Sensor Arrays for Fast, Sensitive, and Label-Free Identification of Chemical Vapors](10.1149/MA2024-01121004mtgabs) <br> <em>  The Electrochemical Society Meetings 2024</em> 
-
-* <b> Anjali Devi Sivakumar </b>, Ruchi Sharma, Chandrakalavathi Thota, Xudong Fan. <br> WASP: Wearable Analytical Skin Probe <br><em> 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Orlando, Florida, July 2024.</em>
-*	<b> Anjali Devi Sivakumar</b>, Ahmed Shokr, Luis G. C. Pacheco, Prudhvi Thirumalaraju, Manoj K. Kanakasabapathy, Jahnavi Gandhi, Deeksha Kartik, Filipe S. R. Silva, Eda Erdogmus, Sai Hemanth K. Kandula, Shenglin Luo, Xu G. Yu, Raymond T. Chung, Jonathan Z. Li, Daniel R. Kuritzkes, and Hadi Shafiee. <br> Rapid, Sensitive, Point-of-Care Detection of SARS-CoV-2 On-Chip<br><em> Discover Brigham, November 2020.</em> [Presentation](https://www.youtube.com/watch?v=ZuF-BC5m7K0)
-* <b>Anjali Devi Sivakumar </b> and Anoop C.S. <br> [Analog and Direct-Digital Front-End Circuits Suitable for Low-Valued Resistive Sensors](10.1109/INDICON45594.2018.8987030) <br><em> Proc. 15th IEEE India Council International Conference (INDICON 2018), Coimbatore, India, Dec.16 -18, 2018. </em>
 
 <b>Patents</b>
 ======
