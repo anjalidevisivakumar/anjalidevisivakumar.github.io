@@ -35,7 +35,7 @@ author_profile: true
   
 <b>Conference Proceedings</b>
 ======
-* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Anjali Sundar, Charles Schuler, and Xudong Fan. <br>WASP: A Next-Generation Wearable Solution for Personalized Skin Health Monitoring <br>Pittcon 2026, San Antonio, USA, March 2026. (Accepted)
+* <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Anjali Sundar, Charles Schuler, and Xudong Fan. <br>WASP: A Next-Generation Wearable Solution for Personalized Skin Health Monitoring <br><em>Pittcon 2026</em>, San Antonio, USA, March 2026. (Accepted)
 * <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, and Xudong Fan. <br>High Performance Microfluidic Dual Channel Photoionization Detector for Trace Vapor Detection <br>Pittcon 2026, San Antonio, USA, March 2026. (Accepted)
 * Anjali Sundar, <b>Anjali Devi Sivakumar</b>, Lea Franco, Bridgette Kaul, Xudong Fan, Charles F. Schuler. <br>Utilizing a Novel Wearable Water Loss Monitor to Detect and Predict Food Anaphylaxis <br>American Academy of Allergy, Asthma & Immunology Annual Meeting, Philadelphia, USA, February 2026. (Accepted).
 * <b>Anjali Devi Sivakumar</b>, Ruchi Sharma, Chandrakalavathi Thota, Shuo Yang, Ali Tabartehfarahani, Xudong Fan. <br>[WASP: A Next-Generation Wearable Solution for Dynamic Skin Health Monitoring](https://event.fourwaves.com/umskc2025/abstracts/c1b01675-9540-4c02-91c6-1ac51ce5b95a) <br>UM Skin Research Center's 6th Annual Symposium: Advances in Skin Biology & Diseases, Ann Arbor, USA, February 2025.
