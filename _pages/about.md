@@ -16,4 +16,4 @@ Previously, I conducted research at the [Shafiee Lab](https://shafieelab.bwh.har
 
 I received my Ph.D. in Electrical and Computer Engineering at the University of Michigan—Ann Arbor, advised by [Prof. Xudong (Sherman) Fan](https://fanlab.bme.umich.edu/) and [Prof.Zhaohui Zhong](https://web.eecs.umich.edu/zhonglab/). I got my M.S. in Electrical and Computer Engineering (IC and VLSI specialization) from the University of Michigan- Ann Arbor, and a B.Tech in Electronics and Instrumentation Engineering from SASTRA University, India.
 
-“I have not failed. I've just found 10,000 ways that won't work. Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” -Attributed to Thomas Alva Edison 
+*“I have not failed. I've just found 10,000 ways that won't work. Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” -Attributed to Thomas Alva Edison* 
