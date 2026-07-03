@@ -6,6 +6,10 @@ author_profile: true
 ---
 <br>
   <p style="display: flex; align-items: center;">
+  <img src="../images/UM_ECE.jfif" width="100" style="margin-right: 20px;" />
+  <span>Received the inaugural <b> ECE Outstanding Innovator Award</b> that recognizes an ECE PhD student annually whose work exhibits exceptional innovation and readiness for real-world application.<a href="https://ece.engin.umich.edu/stories/ece-recognizes-three-students-for-outstanding-innovation-leadership-and-research-with-inaugural-round-of-phd-awards/">News</a></span>
+<br>
+  <p style="display: flex; align-items: center;">
   <img src="../images/M_Rackham.png" width="100" style="margin-right: 20px;" />
   <span>Received the <b> Rackham International Student Fellowship of $14,596 </b> from Rackham Graduate School for Winter 2026 to support my research on analytical wearables for health monitoring.<a href="https://ece.engin.umich.edu/stories/two-ece-graduate-students-awarded-rackham-international-student-fellowship/">News</a></span>
 
