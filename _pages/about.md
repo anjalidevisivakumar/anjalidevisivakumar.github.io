@@ -18,6 +18,7 @@ I received my Ph.D. in Electrical and Computer Engineering at the University of 
 
 <p align="center">
 <i>“I have not failed. I've just found 10,000 ways that won't work. Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.”</i> 
-  
+<p align="center">
+
 <b><i>-Thomas Alva Edison
 
